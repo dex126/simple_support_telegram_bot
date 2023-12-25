@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+env/
+tests/
+.env
+users.json
+poetry.lock
